@@ -5,9 +5,9 @@
 ## Install
 
 ```bash
-npm i pug-plugin-panorama-layout-includes
+npm i panorama-manifest-html-webpack-plugin
 # or
-yarn add pug-plugin-panorama-layout-includes
+yarn add panorama-manifest-html-webpack-plugin
 ```
 
 ## Usage
