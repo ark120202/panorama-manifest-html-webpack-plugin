@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "typeMappings": {
+      "type": "object"
+    }
+  },
+  "additionalProperties": false
+}

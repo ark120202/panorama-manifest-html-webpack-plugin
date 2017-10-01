@@ -1,0 +1,38 @@
+{
+  "name": "panorama-manifest-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "HtmlWebpackPlugin extension that generates custom_ui_manifest.xml file for Panorama",
+  "main": "index.js",
+  "repository": "https://github.com/ark120202/panorama-manifest-html-webpack-plugin.git",
+  "author": "ark120202",
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint **/*.js && ava"
+  },
+  "keywords": [
+    "dota",
+    "dota2",
+    "panorama",
+    "valve",
+    "webpack",
+    "plugin",
+    "html",
+    "html-webpack-plugin"
+  ],
+  "dependencies": {
+    "schema-utils": "^0.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.1",
+    "eslint-config-ark120202": "^1.0.1",
+    "eslint-plugin-html": "^3.2.2",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-unicorn": "^2.1.2"
+  },
+  "ava": {
+    "verbose": "true"
+  }
+}
